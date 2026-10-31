@@ -1,3 +1,3 @@
 # Project-one
 
-Emoji funny little guy.
+Just a silly fella
